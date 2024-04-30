@@ -5,9 +5,11 @@
 ###
 
 <div align="center">
-  <a href ="https://www.instagram.com/karthi_keyon?igsh=MWVlcXYwbXF2bHNybg==">
+  <a href ="https://www.linkedin.com/in/karthi-v-013308249/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" href ="https://www.instagram.com/karthi_keyon?igsh=MWVlcXYwbXF2bHNybg=="height="25" alt="youtube logo"  />
+  <a href ="https://mail.google.com/mail/u/1/#inbox">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="gmail logo"  />
+   <a href ="https://www.instagram.com/karthi_keyon?igsh=MWVlcXYwbXF2bHNybg==">
   <img src="https://camo.githubusercontent.com/50cf39121274b3db22bf1bd72cbe25af9078e037441cb5b5bdef1cc9dc5eb2f7/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667" height="25" alt="twitter logo"  />
 </div>
 
