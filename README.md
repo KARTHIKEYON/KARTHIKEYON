@@ -44,7 +44,7 @@
   <img width="12" />
   <img src="https://imgs.search.brave.com/sylAVDc_dG2HQuMI27__BwhZNXMsX-VWfL2VMMZiMZs/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly8xMDAw/bG9nb3MubmV0L3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIwLzA5/L0NTUy1Mb2dvLTUw/MHgzMTMucG5n" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://imgs.search.brave.com/hmbNDpmcorIEe2l6BmhYKAxcP28jsvWqY9kqQCvXeKM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pY29u/YXBlLmNvbS93cC1j/b250ZW50L3BuZ19s/b2dvX3ZlY3Rvci9q/YXZhc2NyaXB0LWpz/LWxvZ28ucG5n" heightg="40" alt="javascript logo"  />
+  <img src="https://imgs.search.brave.com/MV3Xjk7OXTFha4G3onx3Q70U4NfXxKge0-5sLcCkWeI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zZWVr/bG9nby5jb20vaW1h/Z2VzL0ovamF2YXNj/cmlwdC1sb2dvLUU5/NjdFODdENzQtc2Vl/a2xvZ28uY29tLnBu/Zw" heightg="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://imgs.search.brave.com/TZSo_uOjGCgGGKoHfVlgaAo22amOoM89rsoSrIC3bQ4/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9icmFu/ZHNsb2dvcy5jb20v/d3AtY29udGVudC91/cGxvYWRzL2ltYWdl/cy9weXRob24tbG9n/by5wbmc" height="40" alt="python logo"  />
   <img width="12" />
@@ -54,9 +54,9 @@
   <img width="12" />
   <img src="https://imgs.search.brave.com/A4u8NpgR0g9HD96Auak3P3QwP4mVtsU7KHAEA7TNpR0/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jbGlw/YXJ0LWxpYnJhcnku/Y29tL2ltYWdlX2dh/bGxlcnkyL1BIUC1M/b2dvLUZyZWUtRG93/bmxvYWQtUE5HLnBu/Zw" height="40" alt="kubernetes logo"  />
   <img width="12" />
-  <img src="https://imgs.search.brave.com/piH4HoxxS9uyYLiS_N7tJHLyRpQhQ_0gvzbDkkfUfz4/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8x/LzE4L0NfUHJvZ3Jh/bW1pbmdfTGFuZ3Vh/Z2Uuc3Zn.svg" height="40" alt="c logo"  />
+  <img src="https://imgs.search.brave.com/HzZ17BX4Yv1v10M2Rfos2av6ztYuRzlCK2qP73-Apbk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/cy1kb3dubG9hZC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjIvMTEvQ19Mb2dv/LTYyMng3MDAucG5n" height="40" alt="c logo"  />
    <img width="12" />
-  <img src="https://imgs.search.brave.com/H1AAjMgU0punj1GIcp7XZY16iONu9l2_RsCU1OdkHg0/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8x/LzE4L0lTT19DKytf/TG9nby5zdmc.svg" height="40" alt="docker logo"  />
+  <img src="https://imgs.search.brave.com/OqXo5o1O30IjWqZOpLH6c0odAoe2xJQqrOuxo6OzNJM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZG9ja2VyLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMy8w/NS9zeW1ib2xfYmx1/ZS1kb2NrZXItbG9n/by5wbmc" height="40" alt="docker logo"  />
 </div>
 
 ###
