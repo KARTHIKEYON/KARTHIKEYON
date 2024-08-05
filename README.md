@@ -40,17 +40,17 @@
 <div align="left">
   <img src="https://imgs.search.brave.com/KJJo5F6RnXbAlEpgO7yDtFhaiySENQmvNdqSBuQ9QYo/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9icmFu/ZHNsb2dvcy5jb20v/d3AtY29udGVudC91/cGxvYWRzL2ltYWdl/cy9qYXZhLWxvZ28t/MS5wbmc" height="40" alt="java logo"/>
   <img width="12" />
-  <img src="https://imgs.search.brave.com/5E_3ouC-8qAebTs4ZAz6VouIwo7Wxr9yVTxBkFpcoh0/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy82/LzYxL0hUTUw1X2xv/Z29fYW5kX3dvcmRt/YXJrLnN2Zw.svg" height="40" alt="html logo"/>
+  <img src="https://imgs.search.brave.com/BLp5uFQdfXSqmpA6T4d6gQp2CLZC5UYpMHLepquR97Y/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy82/LzYxL0hUTUw1X2xv/Z29fYW5kX3dvcmRt/YXJrLnN2Zw" height="40" alt="html logo"/>
   <img width="12" />
-  <img src="https://imgs.search.brave.com/_L-kl-i8i-UK9FO7hwiZAqQB_NchiM9Hvfx_75-lW0A/rs:fit:500:0:0/g:ce/aHR0cHM6Ly8xMDAw/bG9nb3MubmV0L3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIwLzA5/L0NTUy1Mb2dvLTUw/MHgzMTMucG5n" height="40" alt="css logo"  />
+  <img src="https://imgs.search.brave.com/sylAVDc_dG2HQuMI27__BwhZNXMsX-VWfL2VMMZiMZs/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly8xMDAw/bG9nb3MubmV0L3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIwLzA5/L0NTUy1Mb2dvLTUw/MHgzMTMucG5n" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://imgs.search.brave.com/tdvYQAi7z_PSnK1o7YAbCJcpfKVUCWSNoukkhS3pNL4/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy9qYXZhc2NyaXB0/LTEuc3Zn.svg" height="33" alt="javascript logo"  />
+  <img src="https://imgs.search.brave.com/hmbNDpmcorIEe2l6BmhYKAxcP28jsvWqY9kqQCvXeKM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pY29u/YXBlLmNvbS93cC1j/b250ZW50L3BuZ19s/b2dvX3ZlY3Rvci9q/YXZhc2NyaXB0LWpz/LWxvZ28ucG5n" heightg="33" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://imgs.search.brave.com/8bcaDxc9MmOmKvOLtdLn4FhFpaH92naOI83G7zKf5uo/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8x/LzFmL1B5dGhvbl9s/b2dvXzAxLnN2Zw.svg" height="40" alt="python logo"  />
+  <img src="https://imgs.search.brave.com/TZSo_uOjGCgGGKoHfVlgaAo22amOoM89rsoSrIC3bQ4/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9icmFu/ZHNsb2dvcy5jb20v/d3AtY29udGVudC91/cGxvYWRzL2ltYWdl/cy9weXRob24tbG9n/by5wbmc" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://imgs.search.brave.com/TB0kIVjo3Bh8Qt9OrGcY-J6VIR5cdWRIm6hGEThuesc/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9j/L2NmL05ld19Qb3dl/cl9CSV9Mb2dvLnN2/Zw.svg" height="40" alt="powerbi logo"  />
+  <img src="https://imgs.search.brave.com/LQKx1l6iYjjueba-Gi_qAgHi2z_axkPAGsl3m5YA_-M/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9j/L2NmL05ld19Qb3dl/cl9CSV9Mb2dvLnN2/Zw" height="40" alt="powerbi logo"  />
   <img width="12" />
-  <img src="https://imgs.search.brave.com/kdhAvDDas6D9BZffTojqoSUyJxxDJW7VgITEc8id15Y/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9sb2dv/dHlwLnVzL2ZpbGUv/cmVhY3Quc3Zn.svg" height="40" alt=" react logo"  />
+  <img src="https://imgs.search.brave.com/mOCx1bfRkfRFUb4ME2vOJDWNJZ6K0lkAuRM8eXTi4NQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9h/L2E3L1JlYWN0LWlj/b24uc3Zn height="40" alt=" react logo"  />
   <img width="12" />
   <img src="https://imgs.search.brave.com/A4u8NpgR0g9HD96Auak3P3QwP4mVtsU7KHAEA7TNpR0/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jbGlw/YXJ0LWxpYnJhcnku/Y29tL2ltYWdlX2dh/bGxlcnkyL1BIUC1M/b2dvLUZyZWUtRG93/bmxvYWQtUE5HLnBu/Zw" height="40" alt="kubernetes logo"  />
   <img width="12" />
