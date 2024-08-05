@@ -44,7 +44,7 @@
   <img width="12" />
   <img src="https://imgs.search.brave.com/sylAVDc_dG2HQuMI27__BwhZNXMsX-VWfL2VMMZiMZs/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly8xMDAw/bG9nb3MubmV0L3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIwLzA5/L0NTUy1Mb2dvLTUw/MHgzMTMucG5n" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://imgs.search.brave.com/MV3Xjk7OXTFha4G3onx3Q70U4NfXxKge0-5sLcCkWeI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zZWVr/bG9nby5jb20vaW1h/Z2VzL0ovamF2YXNj/cmlwdC1sb2dvLUU5/NjdFODdENzQtc2Vl/a2xvZ28uY29tLnBu/Zw" heightg="40" alt="javascript logo"  />
+  <img src="https://imgs.search.brave.com/MV3Xjk7OXTFha4G3onx3Q70U4NfXxKge0-5sLcCkWeI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zZWVr/bG9nby5jb20vaW1h/Z2VzL0ovamF2YXNj/cmlwdC1sb2dvLUU5/NjdFODdENzQtc2Vl/a2xvZ28uY29tLnBu/Zw" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://imgs.search.brave.com/TZSo_uOjGCgGGKoHfVlgaAo22amOoM89rsoSrIC3bQ4/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9icmFu/ZHNsb2dvcy5jb20v/d3AtY29udGVudC91/cGxvYWRzL2ltYWdl/cy9weXRob24tbG9n/by5wbmc" height="40" alt="python logo"  />
   <img width="12" />
